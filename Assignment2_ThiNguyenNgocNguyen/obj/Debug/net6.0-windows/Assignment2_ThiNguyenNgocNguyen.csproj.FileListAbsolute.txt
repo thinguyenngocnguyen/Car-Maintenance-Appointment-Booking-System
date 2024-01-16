@@ -1,0 +1,17 @@
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.csproj.AssemblyReference.cache
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.bookCarMaintenance.resources
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.csproj.GenerateResource.cache
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.AssemblyInfoInputs.cache
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.AssemblyInfo.cs
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.csproj.CoreCompileInputs.cache
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\bin\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.exe
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\bin\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.deps.json
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\bin\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.runtimeconfig.json
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\bin\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.dll
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\bin\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.pdb
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.dll
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\refint\Assignment2_ThiNguyenNgocNguyen.dll
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.pdb
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\Assignment2_ThiNguyenNgocNguyen.genruntimeconfig.cache
+C:\Users\phucu\OneDrive\Desktop\Assignment2_ThiNguyenNgocNguyen\Assignment2_ThiNguyenNgocNguyen\obj\Debug\net6.0-windows\ref\Assignment2_ThiNguyenNgocNguyen.dll
